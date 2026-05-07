@@ -1,0 +1,6 @@
+{
+  "name": "Kodak Alchemy",
+  "description": "A high-fidelity film emulation engine that simulates the chemical development of Kodak film stocks through complex multi-layer pixel physics and latent image formation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
